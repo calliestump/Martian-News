@@ -1,16 +1,16 @@
-# TITLE 
+# Martian News Service  
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 
-### A website by David Sterry updated on 11/6/2020
+### A website by David Sterry & Callie Stump updated on 11/6/2020
 
-## Name
+## Martian News Service
 
-_description_
+_This site deliverys the weather on Mars, along with the Astronomy Picture of the Day, and an image from a Mars Rover, searchable by date. All using NASA API's. This was a project for Epicodus_
 
 The site can be viewed [here](insert link)
 
 ## Setup Instructions
- User will need to have an up to date browser installed such as Chrome of Firefox
+ User will need to have an up to date browser installed such as Chrome of Firefox and a NASA API Key, [click here](https://api.nasa.gov/) to got the NASA page to get your API Key. 
  # View online :
 1. Using the browser navigate to the [gh-pages](insert link) for this project
 ## Download via Github:
@@ -23,8 +23,9 @@ The site can be viewed [here](insert link)
 2. Next navigate to the directory on your computer with the same name, and open via VScode or other code editor of your choice
 3. Open index.html in your browser of choice. 
 ## How to use site
-1. 
-2. 
+1. click on Mars Weather to see Martian Weather!
+2. click on Mars Astronomy to see the APOD 
+3. Choose a date, click the Mars Rover button and see that date's Rover photo. 
 
 ## Known Bugs
  
@@ -49,6 +50,9 @@ _Please contact me at sterry.david@gmail.com in regards to this website_
 * Bootstrap
 * Visual Studios Code
 * jQuery and Javascript
+* API's
+* webpack
+* lint 
 
 
 # License
