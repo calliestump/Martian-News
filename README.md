@@ -1,5 +1,4 @@
 # Martian News Service  
-<img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 
 ### A website by David Sterry & Callie Stump updated on 11/6/2020
 
@@ -28,19 +27,13 @@ The site can be viewed [here](insert link)
 3. Choose a date, click the Mars Rover button and see that date's Rover photo. 
 
 ## Known Bugs
- 
-## Specs
-| Test | Input | Output |
-|:-------------|:-------------------------| :--------------|
-| describe  |||
-| Test | Input | output |
-
+ There are no known bugs at this time.
 
 
 
 ## Contact and Support details
 
-_Please contact me at sterry.david@gmail.com in regards to this website_
+_Please contact us at sterry.david@gmail.com or callie@stu.mp in regards to this website_
 
 ## Techknowlogies Used
 
@@ -59,4 +52,4 @@ _Please contact me at sterry.david@gmail.com in regards to this website_
 
 This project is licensed under **MIT 2.0**
 
-Copyright (c) 2020 **David Sterry**
+Copyright (c) 2020 **David Sterry & Callie Stump**
